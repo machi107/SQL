@@ -1,0 +1,1 @@
+SELECT ANIMAL_ID, name from ANimal_ins order by animal_id
